@@ -1,0 +1,32 @@
+header{
+color: black;
+font-style: italic;
+}
+table{
+	color: black;
+	font-style: bold;
+}
+.bgimg {
+	background-image: url("../img/2.jpg") ;	
+	background-size: 100%;
+	background-color: #cccccc;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.input-box{
+    width: 300px;
+    height: 40px;
+    outline: none;
+    border-color: white;
+    border-radius: 10px;
+}
+.text-center{
+	text-align: center;
+}
+.button{
+	height: 30px;
+	width: 200px;
+	color: black;
+	background-color: rgb(218, 236, 236);
+	opacity: 0;
+}
